@@ -3,5 +3,5 @@ The service allows you to read and write Modbus RTU protocol data from the COM p
 For the service to work in the ___config.yml___ file, it is necessary to set the parameters of the Modbus connection, the addresses of registers for reading and writing data, as well as the port address for the web interface.
 ## Working scheme
 <p align="center">
-<img  src="/readme_assets/Img.PNG" width="100%">
+<img  src="/readme_assets/Img1.PNG" width="100%">
 </p>
