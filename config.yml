@@ -1,0 +1,14 @@
+port: /dev/ttyS0
+baudrate: 19200
+databits: 8
+parity: N
+stopbits: 1
+slave_id: 16
+start_bit: 70
+stop_bit: 79
+
+server_url: :8080
+
+
+  
+    
